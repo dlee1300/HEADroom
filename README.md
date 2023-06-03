@@ -11,7 +11,11 @@ Clone the repository using:
 ```
 git clone https://github.com/dlee1300/HEADroom.git
 ```
+Navigate to the repository folder using:
+
+```
 cd HEADroom
+```
 
 If you do not have JUCE, download it on your local computer. Once downloaded, can open HEADroom.jucer to view and edit the project file.
 

@@ -1,7 +1,5 @@
 # HEADroom
 
-## Purpose
-
 At its core, HEADroom is a gain utility plugin, although its primary purpose is to be used as a means of adding headroom to a mix before a mastering session.
 
 ## Run Locally

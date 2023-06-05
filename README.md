@@ -17,7 +17,7 @@ Navigate to the repository folder using:
 cd HEADroom
 ```
 
-If you do not have JUCE, download it on your local computer. Once downloaded, can open HEADroom.jucer to view and edit the project file.
+If you do not have JUCE, download it on your local computer. Once downloaded, you can open HEADroom.jucer to view and edit the project file.
 
 ## Using the Plugin
 
